@@ -2,6 +2,7 @@
 <h3 align="center">Just another CS student</h3>
 
 - 🌱 I’m currently learning programming **through Harvard CS50**
+- ⚙️ Brainstorming a few open-source projects for the [**Flipper Zero**](https://flipper.net/) written in C and Python (shout-out to them!)
 
 
 <h3 align="left">Languages and Tools:</h3>
